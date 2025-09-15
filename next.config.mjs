@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    distDir: 'custom_build_dir',
+    distDir: 'build_output',
 };
 
 export default nextConfig;
