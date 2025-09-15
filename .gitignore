@@ -43,4 +43,4 @@ node_modules
 node_modules/
 .next/
 .env
-custom_build_dir/cache/webpack/*.pack
+
